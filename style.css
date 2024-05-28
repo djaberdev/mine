@@ -1229,6 +1229,10 @@ section footer .content i:hover {
     .popup .content-box .content a {
         margin: 10px auto 0px;
     }
+
+    .popup .content-box .close {
+        z-index: 16;
+    }
 }
 /* End Responsive */
 /* End Popup */
